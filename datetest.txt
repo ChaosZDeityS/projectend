@@ -1,0 +1,4 @@
+<?php
+date();
+echo date("Y-M-D") 
+?>
